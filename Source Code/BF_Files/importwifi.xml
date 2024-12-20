@@ -3,13 +3,14 @@
 	<name>changethistitle</name>
 	<SSIDConfig>
 		<SSID>
-			<name>changethistitle</name>
+			<name>changethistitle</name mobily 5g>
 		</SSID>
+		
 	</SSIDConfig>
 	<connectionType>ESS</connectionType>
 	<connectionMode>auto</connectionMode>
 	<MSM>
-		<security>
+		<security 
 			<authEncryption>
 				<authentication>WPA2PSK</authentication>
 				<encryption>AES</encryption>
